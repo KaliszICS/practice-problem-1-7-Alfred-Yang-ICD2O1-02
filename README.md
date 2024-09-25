@@ -11,7 +11,7 @@
 
 </br>
 
-3. Ask the user, "Input the letter a:". Output True when the input is a.  Output False when it is not.
+3. Ask the user, "Input the letter a: ". Output True when the input is a.  Output False when it is not.
 
 </br>
 
