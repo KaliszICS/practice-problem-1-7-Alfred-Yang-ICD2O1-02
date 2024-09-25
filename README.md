@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16166636)
 # Instructions  
 
 # Practice Problem 1.7
@@ -10,7 +11,7 @@
 
 </br>
 
-3. Ask the user, "Input the letter a:". Output True when the input is a.  Output False when it is not.
+3. Ask the user, "Input the letter a: ". Output True when the input is a.  Output False when it is not.
 
 </br>
 
